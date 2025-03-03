@@ -1,0 +1,2 @@
+ID             NAME                    MODE         REPLICAS   IMAGE                   PORTS
+7c7nsankru7j   my_stack_my-container   replicated   0/2        syavaka-cloud3:latest   *:8080->80/tcp
